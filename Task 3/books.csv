@@ -1,0 +1,101 @@
+title,author,genres,rating,ratings_count
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy|Adventure|Young Adult,4.47,9500000
+Harry Potter and the Chamber of Secrets,J.K. Rowling,Fantasy|Adventure|Mystery,4.43,3700000
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Fantasy|Adventure|Mystery,4.58,3800000
+Harry Potter and the Goblet of Fire,J.K. Rowling,Fantasy|Adventure|Young Adult,4.56,3500000
+Harry Potter and the Order of the Phoenix,J.K. Rowling,Fantasy|Adventure|Young Adult,4.50,3300000
+The Hobbit,J.R.R. Tolkien,Fantasy|Adventure|Classics,4.29,4000000
+The Lord of the Rings,J.R.R. Tolkien,Fantasy|Adventure|Classics,4.52,2500000
+The Fellowship of the Ring,J.R.R. Tolkien,Fantasy|Adventure,4.38,3000000
+The Two Towers,J.R.R. Tolkien,Fantasy|Adventure,4.45,2500000
+The Return of the King,J.R.R. Tolkien,Fantasy|Adventure,4.55,2400000
+A Game of Thrones,George R.R. Martin,Fantasy|Adventure|Drama,4.44,2500000
+A Clash of Kings,George R.R. Martin,Fantasy|Adventure|Drama,4.41,1800000
+A Storm of Swords,George R.R. Martin,Fantasy|Adventure|Drama,4.54,1700000
+The Name of the Wind,Patrick Rothfuss,Fantasy|Adventure|Mystery,4.52,1000000
+The Wise Man's Fear,Patrick Rothfuss,Fantasy|Adventure|Mystery,4.57,700000
+The Way of Kings,Brandon Sanderson,Fantasy|Adventure|Epic,4.65,500000
+Words of Radiance,Brandon Sanderson,Fantasy|Adventure|Epic,4.76,400000
+Mistborn,Brandon Sanderson,Fantasy|Adventure|Mystery,4.48,900000
+The Final Empire,Brandon Sanderson,Fantasy|Adventure,4.47,800000
+The Hunger Games,Suzanne Collins,Adventure|Science Fiction|Young Adult,4.34,9000000
+Catching Fire,Suzanne Collins,Adventure|Science Fiction|Young Adult,4.31,5000000
+Mockingjay,Suzanne Collins,Adventure|Science Fiction|Young Adult,4.03,4500000
+Divergent,Veronica Roth,Science Fiction|Adventure|Young Adult,4.16,5500000
+Insurgent,Veronica Roth,Science Fiction|Adventure|Young Adult,3.97,2500000
+Allegiant,Veronica Roth,Science Fiction|Adventure|Young Adult,3.63,2200000
+1984,George Orwell,Science Fiction|Classics|Politics,4.19,4500000
+Animal Farm,George Orwell,Classics|Politics|Satire,3.98,4000000
+Brave New World,Aldous Huxley,Science Fiction|Classics,3.99,1800000
+Fahrenheit 451,Ray Bradbury,Science Fiction|Classics|Dystopian,3.98,2500000
+Dune,Frank Herbert,Science Fiction|Adventure|Fantasy,4.27,1500000
+Dune Messiah,Frank Herbert,Science Fiction|Adventure,3.90,500000
+Foundation,Isaac Asimov,Science Fiction|Classics,4.17,600000
+I Robot,Isaac Asimov,Science Fiction|Short Stories,4.22,500000
+The Martian,Andy Weir,Science Fiction|Adventure,4.41,1400000
+Project Hail Mary,Andy Weir,Science Fiction|Adventure|Mystery,4.50,900000
+Ready Player One,Ernest Cline,Science Fiction|Adventure|Young Adult,4.23,1200000
+Ender's Game,Orson Scott Card,Science Fiction|Adventure|Young Adult,4.31,1300000
+The Maze Runner,James Dashner,Science Fiction|Adventure|Mystery,4.05,1600000
+The Da Vinci Code,Dan Brown,Mystery|Thriller|Adventure,3.90,2500000
+Angels and Demons,Dan Brown,Mystery|Thriller|Adventure,3.95,1500000
+Inferno,Dan Brown,Mystery|Thriller|Adventure,3.86,800000
+Gone Girl,Gillian Flynn,Mystery|Thriller|Psychological,4.11,3000000
+The Girl with the Dragon Tattoo,Stieg Larsson,Mystery|Thriller|Crime,4.16,2800000
+The Silent Patient,Alex Michaelides,Mystery|Thriller|Psychological,4.18,1800000
+Sherlock Holmes,Arthur Conan Doyle,Mystery|Crime|Classics,4.31,1200000
+Murder on the Orient Express,Agatha Christie,Mystery|Crime|Classics,4.19,900000
+And Then There Were None,Agatha Christie,Mystery|Crime|Thriller,4.28,1100000
+The Murder of Roger Ackroyd,Agatha Christie,Mystery|Crime|Classics,4.27,500000
+The Girl on the Train,Paula Hawkins,Mystery|Thriller|Psychological,3.96,1800000
+Big Little Lies,Liane Moriarty,Mystery|Drama|Psychological,4.28,900000
+The Notebook,Nicholas Sparks,Romance|Drama,4.14,1500000
+A Walk to Remember,Nicholas Sparks,Romance|Drama,4.18,1200000
+Me Before You,Jojo Moyes,Romance|Drama,4.27,2000000
+The Fault in Our Stars,John Green,Romance|Young Adult|Drama,4.13,5000000
+Pride and Prejudice,Jane Austen,Romance|Classics,4.29,4500000
+Jane Eyre,Charlotte Bronte,Romance|Classics|Drama,4.15,2200000
+Wuthering Heights,Emily Bronte,Romance|Classics|Drama,3.90,1800000
+Outlander,Diana Gabaldon,Romance|Fantasy|Adventure,4.26,1000000
+Twilight,Stephenie Meyer,Romance|Fantasy|Young Adult,3.64,6500000
+The Time Traveler's Wife,Audrey Niffenegger,Romance|Science Fiction|Drama,3.96,1700000
+The Great Gatsby,F. Scott Fitzgerald,Classics|Romance|Drama,3.93,5000000
+To Kill a Mockingbird,Harper Lee,Classics|Drama|Historical,4.26,6000000
+The Catcher in the Rye,J.D. Salinger,Classics|Young Adult|Drama,3.81,3500000
+The Alchemist,Paulo Coelho,Adventure|Fantasy|Philosophy,3.91,3500000
+The Little Prince,Antoine de Saint-Exupery,Fantasy|Classics|Philosophy,4.32,2200000
+The Book Thief,Markus Zusak,Historical|Drama|Young Adult,4.39,2500000
+All the Light We Cannot See,Anthony Doerr,Historical|Drama|War,4.31,1300000
+The Kite Runner,Khaled Hosseini,Historical|Drama,4.35,3000000
+A Thousand Splendid Suns,Khaled Hosseini,Historical|Drama,4.43,1800000
+The Help,Kathryn Stockett,Historical|Drama,4.47,2200000
+The Nightingale,Kristin Hannah,Historical|Drama|War,4.64,1500000
+Sapiens,Yuval Noah Harari,History|Nonfiction|Science,4.35,1500000
+Homo Deus,Yuval Noah Harari,History|Nonfiction|Science,4.20,700000
+Educated,Tara Westover,Biography|Memoir|Nonfiction,4.46,1700000
+Becoming,Michelle Obama,Biography|Memoir|Nonfiction,4.45,1000000
+Steve Jobs,Walter Isaacson,Biography|Technology|Nonfiction,4.15,800000
+Atomic Habits,James Clear,Self Help|Psychology|Nonfiction,4.37,2000000
+The Power of Habit,Charles Duhigg,Self Help|Psychology|Nonfiction,4.13,1000000
+Thinking Fast and Slow,Daniel Kahneman,Psychology|Science|Nonfiction,4.18,900000
+Deep Work,Cal Newport,Self Help|Productivity|Nonfiction,4.20,700000
+The Psychology of Money,Morgan Housel,Finance|Psychology|Nonfiction,4.37,1200000
+Rich Dad Poor Dad,Robert Kiyosaki,Finance|Self Help|Nonfiction,4.10,2500000
+The Intelligent Investor,Benjamin Graham,Finance|Business|Nonfiction,4.20,600000
+Zero to One,Peter Thiel,Business|Technology|Nonfiction,4.17,700000
+Clean Code,Robert C. Martin,Technology|Programming|Nonfiction,4.37,600000
+Python Crash Course,Eric Matthes,Programming|Technology|Education,4.50,400000
+Automate the Boring Stuff with Python,Al Sweigart,Programming|Technology|Education,4.42,500000
+Introduction to Algorithms,Thomas H. Cormen,Programming|Technology|Education,4.35,300000
+The Pragmatic Programmer,Andrew Hunt,Programming|Technology|Education,4.35,350000
+The Lean Startup,Eric Ries,Business|Entrepreneurship|Nonfiction,4.10,800000
+Good to Great,Jim Collins,Business|Leadership|Nonfiction,4.14,900000
+Start with Why,Simon Sinek,Business|Leadership|Psychology,4.12,1000000
+Thinking in Bets,Annie Duke,Psychology|Business|Decision Making,4.08,300000
+The Subtle Art of Not Giving a F*ck,Mark Manson,Self Help|Psychology|Nonfiction,3.88,1500000
+Man's Search for Meaning,Viktor E. Frankl,Psychology|Philosophy|Classics,4.37,900000
+Meditations,Marcus Aurelius,Philosophy|Classics|History,4.23,800000
+The Art of War,Sun Tzu,History|Philosophy|Strategy,3.97,1000000
+Cosmos,Carl Sagan,Science|Astronomy|Nonfiction,4.39,600000
+A Brief History of Time,Stephen Hawking,Science|Physics|Nonfiction,4.21,1200000
+The Gene,Siddhartha Mukherjee,Science|Biology|Nonfiction,4.35,300000
